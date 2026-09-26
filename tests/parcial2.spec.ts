@@ -27,7 +27,7 @@ test.describe('Suite 1 - Autenticación y Control de Acceso', () => {
   });
 });
 
-// ============================================================================
+// ===========================================================================
 // SUITE 2: Navegación de Módulos y Flujo del Sitio con Login en beforeEach
 // ============================================================================
 test.describe('Suite 2 - Navegación y Flujo del Sistema', () => {
